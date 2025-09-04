@@ -23,10 +23,10 @@ You can customize it with your own letter, photos, and even add a background son
 
 ## 👋 About Me
 
-Hey! I'm **Anuj**, a web developer and student who loves building unique websites like this to help people express feelings online.
+Hey! I'm Arslan, a web developer and student who loves building unique websites like this to help people express feelings online.
 
 Find me here:  
-- LinkedIn: [anujchaudhary549](https://linkedin.com/in/arslanyaseendev)  
+- LinkedIn: [Arslan Yaseen](https://linkedin.com/in/arslanyaseendev)  
 
 ---
 
